@@ -16,6 +16,7 @@
 -->this app update
 userinterface 
 about
+api changes updated
 minner error 
 
 # Smart Pdf Editor
@@ -175,7 +176,7 @@ want.
 ### Project Maintainers
 
 This project is founded and actively maintained by . For
-any sort of queries feel free to mail at Ankitkumarravi84060@gmail.com.
+any sort of queries feel free to mail at developerankitsingh09@gmail.com
 
 Acknowledgements
 credit
