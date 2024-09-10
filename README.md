@@ -67,18 +67,14 @@ applicationId "ankitsingh.smartpdfeditor"
 
 Ankit_singh
 
-### Badges
 
-https://play.google.com/store/apps/details?id=ankitsingh.smartpdfeditor
 
 Have JPG when you need a PDF? Convert JPG to PDF in a few seconds! :smiley:  
 Here is an easy to use Android app to convert images to PDF file!
 
 <img src="C:\Users\ankitkumar\Desktop\paid pdf done\smart pdf editor orifnal\COLOR UPDATE 2024 PDF EDITOR\1.jpg"  width="300px">
 
-### Support Us
-download app
-https://play.google.com/store/apps/details?id=ankitsingh.smartpdfeditor
+
 
 ### Features
 
@@ -169,7 +165,7 @@ Go to Settings, and you can have three type of themes : Black, Dark and White
 If you are a developer and you wish to contribute to the app please fork the project
 and submit a pull request.
 Follow [) for collaboration!
-If you have any questions, feel free to ask [me](mailto:Ankitkumarravi84060@gmail.com) about whatever you
+If you have any questions, feel free to ask [me](mailto:developerankitsingh09@gmail.com) about whatever you
 want.
 [Here]() is the list of known issues.
 
